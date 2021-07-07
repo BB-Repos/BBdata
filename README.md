@@ -15,17 +15,17 @@ BB-Data is a data and video downloader. The aim of this codebase is to set up a 
 
 ## Installation
 
-  1. Create a directory (i.e. BBdata) to clone bbdata into:
+  1. Clone this repository:
   ```
-  git clone https://github.com/bb-repo/bbdata.git PATH/TO/BBdata/
+  git clone https://github.com/BB-Repos/BBdata.git
   ```
   2. Create a virtual environment (using Pipenv or Conda for example).
 
   3. Install the project onto your system:
   ```
-  pip install -e /PATH/TO/BBdata
+  pip install -e BBdata
   ```
-  4. Using apt, install:         
+  4. Using apt, install the following:         
   ```
   apt install parallel
   apt install ffmpeg
