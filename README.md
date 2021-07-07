@@ -17,7 +17,7 @@ BB-Data is a data and video downloader. The aim of this codebase is to set up a 
 
   1. Clone this repository:
   ```
-  git clone https://github.com/BB-Repos/BBdata.git
+  git clone https://github.com/BBsjj/BBdata.git
   ```
   2. Create a virtual environment (using Pipenv or Conda for example).
 
